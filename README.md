@@ -10,3 +10,5 @@ Do not distribute
 
 # Instructions
 Unzip the file and drag it to the applications folder!
+
+THE FILE IS LOCATED IN THE RELEASES TAB
