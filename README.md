@@ -7,3 +7,6 @@ Just download and it's ready to go!
 *Can also be used to restart Finder if it is lagging*
 
 Do not distribute
+
+# Instructions
+Unzip the file and drag it to the applications folder!
